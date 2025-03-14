@@ -2,18 +2,17 @@
 
 [![Open in MATLAB Online](https://img.shields.io/badge/Open_in-MATLAB_Online-blue?logo=MATLAB)](https://www.mathworks.com/products/matlab-online.html?url=https://github.com/calanuzao/hearingaidEQ/archive/refs/heads/main.zip)
 
-![Hearing Loss EQ](./hearing-loss-eq/hearinglossEQ.png)
-
-## Project Description## Project Description
+## Project Description
 
 This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments. The project includes MATLAB scripts and functions to simulate, analyze, and visualize the acoustic barriers faced by the hearing impaired and the solutions provided by hearing aids.This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments. The project includes MATLAB scripts and functions to simulate, analyze, and visualize the acoustic barriers faced by the hearing impaired and the solutions provided by hearing aids.
+
+![Hearing Loss EQ](./hearing-loss-eq/hearinglossEQ.png)
 
 ## Additional Information
 
 - Ensure you have MATLAB installed on your machine. You can also use MATLAB Online to run the scripts.cripts.
 - Refer to the comments within the scripts and functions for detailed explanations of the code. explanations of the code.
 - For any issues or questions, please contact the project maintainer.- For any issues or questions, please contact the project maintainer.
-
 
 ### 1. Introduction
 Acoustics, the science of sound, explores the fundamental laws of nature. Although sound's nature is rooted in physics, its perception varies significantly with hearing impairment, a complexity further compounded by numerous external factors. This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments.Acoustics, the science of sound, explores the fundamental laws of nature. Although sound's nature is rooted in physics, its perception varies significantly with hearing impairment, a complexity further compounded by numerous external factors. This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments.
