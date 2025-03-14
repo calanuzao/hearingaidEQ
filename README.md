@@ -1,7 +1,8 @@
 # Emulating Hearing Aid Acoustics
 
-![Hearing Loss EQ](hearinglossEQ.png)TLAB_Online-blue?logo=MATLAB)](https://www.mathworks.com/products/matlab-online.html?url=https://github.com/calanuzao/hearingaidEQ/archive/refs/heads/main.zip)
-![MATLAB Online](https://img.shields.io/badge/MATLAB-Online-blue)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open_in-MATLAB_Online-blue?logo=MATLAB)](https://www.mathworks.com/products/matlab-online.html?url=https://github.com/calanuzao/hearingaidEQ/archive/refs/heads/main.zip)
+
+![Hearing Loss EQ](./hearing-loss-eq/hearinglossEQ.png)
 
 ## Project Description## Project Description
 
