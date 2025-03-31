@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments. The project includes MATLAB scripts and functions to simulate, analyze, and visualize the acoustic barriers faced by the hearing impaired and the solutions provided by hearing aids.This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments. The project includes MATLAB scripts and functions to simulate, analyze, and visualize the acoustic barriers faced by the hearing impaired and the solutions provided by hearing aids.
+This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments. The project includes MATLAB scripts and functions to simulate, analyze, and visualize the acoustic barriers faced by the hearing impaired and the solutions provided by hearing aids.
 
 ![Hearing Loss EQ](./hearing-loss-eq/hearinglossEQ.png)
 
