@@ -15,19 +15,19 @@ This project focuses on enhancing sound perception and auditory architecture for
 - For any issues or questions, please contact the project maintainer.- For any issues or questions, please contact the project maintainer.
 
 ### 1. Introduction
-Acoustics, the science of sound, explores the fundamental laws of nature. Although sound's nature is rooted in physics, its perception varies significantly with hearing impairment, a complexity further compounded by numerous external factors. This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments.Acoustics, the science of sound, explores the fundamental laws of nature. Although sound's nature is rooted in physics, its perception varies significantly with hearing impairment, a complexity further compounded by numerous external factors. This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments.
+Acoustics, the science of sound, explores the fundamental laws of nature. Although sound's nature is rooted in physics, its perception varies significantly with hearing impairment, a complexity further compounded by numerous external factors. This project focuses on enhancing sound perception and auditory architecture for individuals with hearing impairments.
 
 ### 2. Historical Perspective on Hearing Aid Technology
-Hearing aids have undergone significant advancements since their inception, enhancing their efficiency, audio processing, and ability to adapt to the needs of hearing-impaired individuals.Hearing aids have undergone significant advancements since their inception, enhancing their efficiency, audio processing, and ability to adapt to the needs of hearing-impaired individuals.
+Hearing aids have undergone significant advancements since their inception, enhancing their efficiency, audio processing, and ability to adapt to the needs of hearing-impaired individuals.
 
 ### 3. Understanding Hearing Loss
-Speech intelligibility is crucial in the design of rooms and halls, such as places of worship, auditoriums, and drama theaters, where overcoming acoustical barriers is necessary to enhance speech clarity.Speech intelligibility is crucial in the design of rooms and halls, such as places of worship, auditoriums, and drama theaters, where overcoming acoustical barriers is necessary to enhance speech clarity.
+Speech intelligibility is crucial in the design of rooms and halls, such as places of worship, auditoriums, and drama theaters, where overcoming acoustical barriers is necessary to enhance speech clarity.
 
 ### 4. Emulating Hearing Loss In MATLAB
-All of the variables and parameters discussed thus far were emulated using MATLAB’s Audio Tool Box. The primary goal was to reduce the audibility, dynamic range, frequency resolution, and temporal resolution of a digital audio signal.All of the variables and parameters discussed thus far were emulated using MATLAB’s Audio Tool Box. The primary goal was to reduce the audibility, dynamic range, frequency resolution, and temporal resolution of a digital audio signal.
+All of the variables and parameters discussed thus far were emulated using MATLAB’s Audio Tool Box. The primary goal was to reduce the audibility, dynamic range, frequency resolution, and temporal resolution of a digital audio signal.
 
 ### 5. Denoising Data In MATLAB
-The hearing loss simulation provided valuable insights into the challenges faced by individuals with hearing impairments. The Cocktail Party effect illustrates how excessive background noise can make it nearly impossible for those with hearing loss to follow conversations.The hearing loss simulation provided valuable insights into the challenges faced by individuals with hearing impairments. The Cocktail Party effect illustrates how excessive background noise can make it nearly impossible for those with hearing loss to follow conversations.
+The hearing loss simulation provided valuable insights into the challenges faced by individuals with hearing impairments. The Cocktail Party effect illustrates how excessive background noise can make it nearly impossible for those with hearing loss to follow conversations.
 
 ## Works Cited
 1. COMSOL. (n.d.). Acoustics module version 6.2 documentation. COMSOL Multiphysics.entation. COMSOL Multiphysics.
