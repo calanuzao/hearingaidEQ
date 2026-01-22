@@ -10,8 +10,8 @@ This project focuses on enhancing sound perception and auditory architecture for
 
 ## Additional Information
 
-- Ensure you have MATLAB installed on your machine. You can also use MATLAB Online to run the scripts.cripts.
-- Refer to the comments within the scripts and functions for detailed explanations of the code. explanations of the code.
+- Ensure you have MATLAB installed on your machine. You can also use MATLAB Online to run the scripts.
+- Refer to the comments within the scripts and functions for detailed explanations of the code. 
 - For any issues or questions, please contact the project maintainer.- For any issues or questions, please contact the project maintainer.
 
 ### 1. Introduction
